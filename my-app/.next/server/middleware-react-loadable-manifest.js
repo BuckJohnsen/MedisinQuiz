@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app\\\\page.tsx -> ../data/flashcards.json":{"id":5587,"files":["static/chunks/587.fa2f846a7d2a9b23.js"]}}';
