@@ -8313,6 +8313,56 @@
     },
     {
         "category": "Histologi",
+        "question": "Hva vises i strukturen i området markert med 1: Velg ett eller flere alternativer",
+        "answers": [
+            "Muskel",
+            "Periosteum",
+            "Perichondrium",
+            "Osteoklast celle",
+            "Fibroblast celle",
+            "Osteoblast celle",
+            "Monocytt/makrofag celle i beinmarg"
+        ],
+        "correct-answer": []
+    },
+    {
+        "category": "Histologi",
+        "question": "Hva vises i området markert med 2? Velg ett alternativ",
+        "answers": [
+            "Monocytt/makrofag celle",
+            "Osteoblast celle",
+            "Osteoklast",
+            "Blodkar",
+            "Monocytt/makrofag celle",
+            "Chondrocytt celle",
+            "Chondrocytt i lacuna"
+        ],
+        "correct-answer": []
+    },
+    {
+        "category": "Histologi",
+        "question": "Hva vises i området markert med 3?",
+        "answers": [
+            "Muskel",
+            "Periosteum",
+            "Perichondrium",
+            "Osteoklast celle",
+            "Fibroblast celle",
+            "Osteoblast celle",
+            "Monocytt/makrofag celle i beinmarg"
+        ],
+        "correct-answer": []
+    },
+    {
+        "category": "Histologi",
+        "question": "Hva vises i området markert med 4? Velg ett alternativ",
+        "answers": [
+            "Osteocytt i lacuna"
+        ],
+        "correct-answer": []
+    },
+    {
+        "category": "Histologi",
         "question": "Hvilken påstand beskriver best canaliculi? Velg et alternativ",
         "answers": [
             "Den parallelle orienteringen av fiber og matriks som finnes i kompaktbein",
