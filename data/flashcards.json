@@ -2,7 +2,7 @@
   {
     "category": "Histologi",
     "question": "What is the main function of epithelial tissue?",
-    "answers": ["Protection", "Movement"],
+    "answers": ["Protection", "Movement", "Digestion", "Circulation"],
     "correct_answer": "Protection"
   },
   {
