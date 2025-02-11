@@ -62,7 +62,7 @@ const Home = () => {
           </motion.button>
         )}
         <h1 className="text-4xl font-bold text-center mb-8 text-neutral-800">
-          Flashcard System
+          MEDOD2 Quiz ❤️
         </h1>
         <AnimatePresence mode="wait">
           {selectedCategory ? (
